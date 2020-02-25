@@ -1,8 +1,8 @@
 /* box *//* header*/
 .box {
-    background-image: url(h_img.jpg);
-    background-size: cover;
-    background-attachment: fixed;
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    /* background-size: cover;
+    background-attachment: fixed; */
     text-align: center;
     padding-top: 300px;
     color: #ffffff;
@@ -152,7 +152,7 @@
 /*Header*/
 .header{
     min-height: calc(100vh - 94px);
-    background:url(h_img.jpg);
+    background:url('../h_img.jpg');
     background-position:fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -192,7 +192,7 @@
 
 /*--------------Servises----------*/
 #sevices{
-    background:url(s_image.jpg);
+    background:url('../s_image.jpg');
     text-align: center;
     padding-top: 60px;
     color: cornsilk;

@@ -4,8 +4,15 @@
 The Author of this project is a student at Moringa School currently taking part in the Prep Program.
 
 ## DESCRIPTION
-This is a web application in which contains all the work I have done during my second week of learning at [MORINGA School](https://moringaschool.com/). It used Javascript, Bootstrap, and HTML coded from [Visual Studio Code](https://code.visualstudio.com/). The web application is used to find the users Akan name if he or she was from Ghana. It prompts the user to input his or her gender and his or her Birth date then it calculates the day of the week the user was born and shows the Akan name of the user.
-Here is the [Live Site](https://Adrian-Wanjau.github.io/Wk2-IP)
+This is a web application in which contains all the work I have done during my second week of learning at [MORINGA School](https://moringaschool.com/). It used Javascript, Bootstrap, and HTML coded from [Visual Studio Code](https://code.visualstudio.com/).When you work with us, you are part of a team of committed collaborators.All aspects of our software development process are intergrated, interactive
+and agile.
+
+Our approach unifies design, development and product management to create exceptional products.
+
+We start each project by understanding your business goals, the user's needs and the product requirements
+
+Then we help translate them into effective and elegant solutions.
+Here is the [Live Site](https://vincentnjoroge.github.io/Delani-studio/)
 
 ## Setup/Installation Requirements
 Clone this Repository onto your device then open the file and it will lead you to the Web Aplication.
@@ -16,8 +23,8 @@ Clone this Repository onto your device then open the file and it will lead you t
 3. The Text editor was used in writing the ReadMe.
 
 ## CONTACTS
-Phone Number: 0704204925
-Email : adrianhubba@gmail.com
+Phone Number: 0771933091
+Email : viny.njoroge1@gmail.com
 
 ## LICENSE
     MIT License
